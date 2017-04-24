@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hjmorrow23/mw-2017.git"
+    "url": "git+https://github.com/hjmorrow23/PSD-Sample.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hjmorrow23/mw-2017/issues"
+    "url": "https://github.com/hjmorrow23/PSD-Sample/issues"
   },
-  "homepage": "https://github.com/hjmorrow23/mw-2017#readme",
+  "homepage": "https://github.com/hjmorrow23/PSD-Sample#readme",
   "devDependencies": {
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
